@@ -1,0 +1,91 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');h1 {*/
+	.wrapper{
+		overflow: hidden;
+		min-height: 100%;
+	}
+	body{
+		font-family:  "Roboto", "Arial", "sans-serif";
+		font-size: 16px;
+	}
+	h1 {
+		color: cornflowerblue;
+		max-width: 500px;
+		margin: 50px auto;
+		font-size: 30px;
+	}
+	p {
+		color: brown;
+		margin: 0px 150px;
+		margin-top:25px;
+	}
+	.text {
+		color: darkblue;
+		margin: 0px 150px;
+	}
+	h2,
+	h3 {
+		color: green;
+		font-size: 25px;
+		margin: 25px 335px 25px;
+	}
+	p.paragraph {
+		color: grey;
+		margin: 0px 150px;
+	}
+	a {
+		color: hotpink;
+	}
+	span {
+		color: yellow;
+	}
+	.pink {
+		color: pink;
+	}
+	.green {
+		color: green;
+	}
+	.orange {
+		color: orange;
+	}
+	.sky-blue {
+		color: skyblue;
+	}
+	.purple {
+		color: purple;
+	}
+	.red {
+		color: red;
+	}
+	.text.block {
+		color: blueviolet;
+	}
+	#block {
+		color: lawngreen;
+	}
+	img{
+	   margin-top: 55px;
+		margin-left: 300px;
+		margin-bottom: 25px;
+	}
+	
+	.foto{
+		margin-top: -25px;
+		margin-left: 400px;
+margin-bottom: 25px;
+	}
+	.inline{
+	margin-left: 250px;
+		
+	}
+	.block{
+		max-height: 100px;
+		overflow: auto;
+		background-color: green;
+		padding-top: 25px;
+		padding-left: 20px;
+	}
+	footer{
+		padding-left: 550px;
+		font-size: larger;
+	}

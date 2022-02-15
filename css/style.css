@@ -1,0 +1,59 @@
+
+
+	
+  body{
+	 font-family: Lato, sans-serif;
+ }
+h1{
+	font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 46px;
+line-height: 130%;
+padding-left: 550px;
+
+}
+
+img{ 
+	margin-top: 50px;
+	margin-left: 550px;
+
+}
+h2{
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	padding: 30px 550px;
+	margin-bottom: 50px;
+}
+p{
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+padding-top: 15px;
+padding-left: 550px;
+
+}
+h3{
+	font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+padding-left: 600px;
+}
+
+ul{
+	padding-top: 5px;
+padding-left: 600px;
+line-height: 30px;
+
+
+}
+.block{
+	margin-top: -50px;
+}
